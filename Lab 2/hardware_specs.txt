@@ -2,5 +2,5 @@ Computer Type: MSI Bravo 15 C7VF
 CPU: AMD Ryzen 5 7535HS with Radeon Graphics (3.30 GHz)Processor(s)
 Memory: 8 GB
 OS: Microsoft Windows 11 Home
-HD: 450 GB
+HD: 451 GB
 Display Resolution: 1920x1080
